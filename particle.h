@@ -2,6 +2,7 @@
 #define PARTICLE_H
 
 #include "raylib.h"
+#include <stddef.h>
 
 // 2D partical struct
 typedef struct {
