@@ -1,0 +1,25 @@
+# executables and build outputs
+build/
+bin/
+*.o
+*.out
+*.exe
+*.app/
+*.dSYM/
+
+# os generated files
+.DS_Store
+Thumbs.db
+
+# vs code environment & workspace settings
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/c_cpp_properties.json
+
+# C/C++ build artifacts & temporary files
+*.tmp
+*.log
+
+# dependencies
+external/
