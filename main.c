@@ -1,5 +1,5 @@
 #include "raylib.h"
-#include <particle.h>
+#include "particle.h"
 
 int main(void)
 {
